@@ -1,1 +1,1 @@
-python train_bert.py --checkpoint_dir ./experiment
+python3 train_bert.py --checkpoint_dir ./experiment
